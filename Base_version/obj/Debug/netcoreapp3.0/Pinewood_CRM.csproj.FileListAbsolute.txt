@@ -1,0 +1,11 @@
+C:\Users\Lucas\Desktop\DEV\Pinewood_CRM\bin\Debug\netcoreapp3.0\Pinewood_CRM.exe
+C:\Users\Lucas\Desktop\DEV\Pinewood_CRM\bin\Debug\netcoreapp3.0\Pinewood_CRM.deps.json
+C:\Users\Lucas\Desktop\DEV\Pinewood_CRM\bin\Debug\netcoreapp3.0\Pinewood_CRM.runtimeconfig.json
+C:\Users\Lucas\Desktop\DEV\Pinewood_CRM\bin\Debug\netcoreapp3.0\Pinewood_CRM.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\DEV\Pinewood_CRM\bin\Debug\netcoreapp3.0\Pinewood_CRM.dll
+C:\Users\Lucas\Desktop\DEV\Pinewood_CRM\bin\Debug\netcoreapp3.0\Pinewood_CRM.pdb
+C:\Users\Lucas\Desktop\DEV\Pinewood_CRM\obj\Debug\netcoreapp3.0\Pinewood_CRM.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\DEV\Pinewood_CRM\obj\Debug\netcoreapp3.0\Pinewood_CRM.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\DEV\Pinewood_CRM\obj\Debug\netcoreapp3.0\Pinewood_CRM.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\DEV\Pinewood_CRM\obj\Debug\netcoreapp3.0\Pinewood_CRM.dll
+C:\Users\Lucas\Desktop\DEV\Pinewood_CRM\obj\Debug\netcoreapp3.0\Pinewood_CRM.pdb
